@@ -1,6 +1,11 @@
 import React, { useState } from 'react'
 import { assets } from '../../assets/assets'
+<<<<<<< HEAD
 import './Navbar.css'
+=======
+//import './Nabvar.css'
+//This is to pull changes
+>>>>>>> 8b9fd3d0c0b1254ceb50074d8132020bff66af97
 
 const Navbar = () => {
 
