@@ -52,3 +52,10 @@ cursor:pointer
     padding: 2px;
     
 }
+
+@media (max-width: 1050px){
+    .exlpore-menu-text{
+        max-width: 100%;
+        font-size: 14px;
+    }
+}
